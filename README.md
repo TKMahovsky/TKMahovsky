@@ -12,7 +12,7 @@ JetBrains Rider
 FMOD (including Unity integration/implementation)  
 AVID Pro Tools Certified Professional  
 REAPER  
-  
+~~ ~~ ~~ ~~ ~~ ~~    
 Sound Design & SFX Editing  
 Game Audio Integration/Implementation  
 Dolby Atmos Re-rendering, Automation, & Binaural mixing workflows  
