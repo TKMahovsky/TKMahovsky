@@ -4,20 +4,20 @@ I also highly enjoy documentation, file management, and maintaining clearly orga
 
 Skills:
 
-Wwise (including Unity integration/implementation)
-Unity (including scripting)
-C# Scripting for Unity, Wwise
-GitHub, GitHub Desktop, & GitKraken
-JetBrains Rider
-FMOD (including Unity integration/implementation)
-AVID Pro Tools Certified Professional
-REAPER
-~~ ~~ ~~ ~~ ~~ ~~ ~~
-Sound Design & SFX Editing
-Game Audio Integration/Implementation
-Dolby Atmos Re-rendering, Automation, & Binaural mixing workflows
-Foley Recording, Editing, & Artistry
-Dialogue/ADR Recording, Editing, & Restoration
-Music Recording, Editing, Mixing, & Mastering
-Full Film Mixing, Layback, Effects Processing, etc.
-Audio Studio Installation, Signal Flow, Troubleshooting, Maintenance/Repair, & Management
+Wwise (including Unity integration/implementation)  
+Unity (including scripting)  
+C# Scripting for Unity, Wwise  
+GitHub, GitHub Desktop, & GitKraken  
+JetBrains Rider  
+FMOD (including Unity integration/implementation)  
+AVID Pro Tools Certified Professional  
+REAPER  
+  
+Sound Design & SFX Editing  
+Game Audio Integration/Implementation  
+Dolby Atmos Re-rendering, Automation, & Binaural mixing workflows  
+Foley Recording, Editing, & Artistry  
+Dialogue/ADR Recording, Editing, & Restoration  
+Music Recording, Editing, Mixing, & Mastering  
+Full Film Mixing, Layback, Effects Processing, etc.  
+Audio Studio Installation, Signal Flow, Troubleshooting, Maintenance/Repair, & Management  
